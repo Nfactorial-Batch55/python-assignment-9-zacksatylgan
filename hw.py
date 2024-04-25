@@ -9,6 +9,7 @@ missing_elements([1, 2, 4, 6, 7]) -> [3, 5]
 
 def missing_elements(my_list: list) -> list:
     pass
+#Hello
 
 """
 Exercise-2: Count occurrences
